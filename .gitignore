@@ -1,0 +1,5 @@
+__pycache__
+config.json
+play.py
+*.pyc
+.DS_Store
