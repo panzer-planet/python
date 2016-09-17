@@ -110,7 +110,14 @@ result = passmarked.submit('http://example-website.com').get_json()
 * [getProfile](https://github.com/passmarked/passmarked/wiki/profile)
 * [getBalance](https://github.com/passmarked/passmarked/wiki/balance)
 * [createRunner](https://github.com/passmarked/passmarked/wiki/runner)
+
 ## Contributing
+1. Fork the project
+2. Write a test that reproduces the bug
+3. Fix the bug without breaking any of the existing tests
+4. Submit a pull request
+
+We're busy building the tests and refactoring code as we go. If you spot any area that could use help feel free to open a PR.
 
 ## License
 
